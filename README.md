@@ -17,6 +17,7 @@ This project focuses on **layout design, responsiveness, and visual structure** 
 - CSS3  
 
 ## 🚀 How to Run the Project
+https://firefox-shubhendra.github.io/Ecommerce-site/
 
 1. **Clone the repository**
 ```bash
